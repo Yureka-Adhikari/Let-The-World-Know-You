@@ -1,3 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #252525;
+  font-family: "Baloo Tamma 2", cursive;
+}
+
 #social-media {
   background-color: rgb(44, 12, 75);
 }
